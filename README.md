@@ -1,5 +1,5 @@
 # [URL Shortener Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
-This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It gives takes an URL and shortens it to a singular digit which can be used to redirect to the original URL.
+This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It takes an URL and shortens it to a singular digit which can be used to redirect to the original URL.
 
 ## Language and Framework
 ![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen)
