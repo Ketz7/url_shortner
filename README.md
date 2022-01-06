@@ -19,5 +19,5 @@ Example
 ```
 https://www.google.com -> {"original_url":"https://www.google.com","short_url":18}
 
-going to /app/shorturl/18 -> redirects to [https"](https://www.google.com)
+going to /app/shorturl/18 -> redirects to [https://www.google.com]
 ```
