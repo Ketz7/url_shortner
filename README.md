@@ -5,7 +5,7 @@ This is a Node.js (with Express.js) little application which is part of the FCC 
 ![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen)
 
 ## Database
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&label=Database&logo=mongodb&logoColor=white)
 
 ___
 ## User Stories
