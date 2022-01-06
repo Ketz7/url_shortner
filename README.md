@@ -1,7 +1,7 @@
 # [URL Shortener Microservice](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
 
 ## Language and Framework
-![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen) ![GitHub commit checks state](https://img.shields.io/github/checks-status/Ketz7/url_shortner/0ded9dfdaf3ecd7d658d7700c152bf249068c02d?color=green&logo=GitHub&style=plastic)
+![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen)
 
 ___
 ## User Stories
