@@ -17,8 +17,6 @@ ___
 
 ___
 
-This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It shortens any given url which is in a valid format. Given the short url it will redirect you to the main site.
-
 Example 
 ```
 https://www.google.com -> {"original_url":"https://www.google.com","short_url":18}
